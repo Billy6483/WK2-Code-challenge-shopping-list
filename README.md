@@ -12,5 +12,4 @@ Update the list item visually to indicate purchased items (e.g., strikethrough t
 Event Handling:
 Attach event listeners to the "Add" button to capture user input and add items to the list.
 Attach event listeners to the list of items to allow users to mark them as purchased.
-Attach an event listener to the "Clear List" button to remove all items from the list.
- Tenchology used;Javascript,Html,Css                                     LICENSE Copyright 2024 Billy Koech The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Attach an event listener to the "Clear List" button to remove all items from the list.                                                            Live link;https://github.com/Billy6483/WK2-Code-challenge-shopping-list.git Technology used;Javascript,Html,Css                                     LICENSE Copyright 2024 Billy Koech The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
